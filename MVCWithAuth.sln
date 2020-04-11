@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCWithAuth", "MVCWithAuth\MVCWithAuth.csproj", "{4C822C3D-72AD-4058-B823-556223E272A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCWithAuth.DomainObjects", "MVCWithAuth.DomainObjects\MVCWithAuth.DomainObjects.csproj", "{AEF07FD2-7B2C-4CC5-B3E2-A836BC877B0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCWithAuth.Api", "MVCWithAuth.Api\MVCWithAuth.Api.csproj", "{A56163C7-8B4E-4AF5-87DA-983A26A5827D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C822C3D-72AD-4058-B823-556223E272A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C822C3D-72AD-4058-B823-556223E272A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C822C3D-72AD-4058-B823-556223E272A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C822C3D-72AD-4058-B823-556223E272A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF07FD2-7B2C-4CC5-B3E2-A836BC877B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF07FD2-7B2C-4CC5-B3E2-A836BC877B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF07FD2-7B2C-4CC5-B3E2-A836BC877B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF07FD2-7B2C-4CC5-B3E2-A836BC877B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A56163C7-8B4E-4AF5-87DA-983A26A5827D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A56163C7-8B4E-4AF5-87DA-983A26A5827D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A56163C7-8B4E-4AF5-87DA-983A26A5827D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A56163C7-8B4E-4AF5-87DA-983A26A5827D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
